@@ -33,7 +33,7 @@ const Home = () => {
                 <div className="w-16 h-16 bg-mui-blue/10 rounded-full flex items-center justify-center mb-4">
                   <FolderOpen size={32} className="text-mui-blue" />
                 </div>
-                <h3 className="text-xl font-bold mb-2">Repository File</h3>
+                <h3 className="text-xl font-bold mb-2">Repository KU</h3>
                 <p className="text-mui-darkGray">
                   Akses dan bagikan materi perkuliahan, PDF, video, dan makalah dengan mudah.
                 </p>

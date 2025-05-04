@@ -52,7 +52,7 @@ const Home = () => {
               </CardContent>
             </Card>
             
-            <Card className="hover:shadow-lg transition-shadow">
+            {/* <Card className="hover:shadow-lg transition-shadow">
               <CardContent className="p-6 flex flex-col items-center text-center">
                 <div className="w-16 h-16 bg-mui-blue/10 rounded-full flex items-center justify-center mb-4">
                   <Info size={32} className="text-mui-blue" />
@@ -62,11 +62,8 @@ const Home = () => {
                   Informasi lengkap tentang kelas, ketua kelas, dan dosen pengajar.
                 </p>
               </CardContent>
-            </Card>
-            
-            <Card className="hover:shadow-lg transition-shadow">
-              
-            </Card>
+            </Card> */}
+          
           </div>
         </div>
       </section>
